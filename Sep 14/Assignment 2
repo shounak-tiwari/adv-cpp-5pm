@@ -1,0 +1,55 @@
+Arithmetic Operators
+Price Calculation: A store has a discount of 20% on an item originally priced at $50. Write a C++ expression to calculate the discounted price and print it.
+
+Budgeting: You have a monthly budget of $1200. After spending $350 on groceries and $150 on utilities, how much is left? Write a C++ code snippet to determine the remaining amount.
+
+Temperature Conversion: Convert a temperature from Celsius to Fahrenheit using the formula F = C * 9/5 + 32. Write a C++ expression to convert a temperature of 25°C.
+
+Interest Calculation: Calculate the simple interest using the formula I = P * R * T / 100, where P is principal, R is rate of interest, and T is time in years. Write a C++ code to find the interest for a principal of $1000, rate of 5%, and time of 2 years.
+
+Fraction Division: Divide two fractions 3/4 and 2/5 and print the result. Write a C++ code snippet to perform this operation.
+
+Relational Operators
+Age Comparison: Compare two ages, age1 and age2. Write a C++ code snippet to determine if age1 is greater than age2 and print a message accordingly.
+
+Temperature Check: Given a temperature in Celsius, determine if it is freezing (<=0°C), boiling (>=100°C), or normal (between 0°C and 100°C). Write a C++ expression to classify the temperature.
+
+Grade Evaluation: Write a C++ code snippet to check if a student's grade score is a passing grade (>= 60) or failing grade (< 60).
+
+Number Comparison: Given three numbers a, b, and c, write a C++ expression to find the maximum of these three numbers.
+
+Discount Eligibility: A customer is eligible for a discount if their purchase amount is greater than $100. Write a C++ code snippet to check if a purchase amount total qualifies for a discount.
+
+Logical Operators
+Eligibility Check: Determine if a person is eligible for a loan based on two conditions: age >= 18 and income >= 3000. Write a C++ expression to check eligibility.
+
+Event Access: A person can attend an event if they have an invitation (hasInvitation) and are not underage (age >= 18). Write a C++ code snippet to determine if they can attend.
+
+Safety Check: Check if a machine is operating safely. The machine is safe if the temperature is between 50 and 150 degrees and the pressure is below 200. Write a C++ expression to check if the machine is safe.
+
+Course Enrollment: A student can enroll in a course if they meet either of these conditions: they are a senior or they have passed the prerequisites. Write a C++ expression to check enrollment eligibility.
+
+Password Validation: Validate if a password is strong based on two conditions: length greater than 8 characters and contains at least one special character. Write a C++ code snippet to validate the password.
+
+Bitwise Operators
+Binary Representation: Convert the integer 12 to its binary representation using bitwise operations. Write a C++ code snippet to print its binary form.
+
+Bitwise AND Operation: Perform a bitwise AND operation on the numbers 13 and 7. Write a C++ code snippet to show the result.
+
+Bitwise OR Operation: Apply a bitwise OR operation between 10 and 5. Write a C++ code snippet to print the result.
+
+Bitwise XOR Operation: Find the result of the bitwise XOR operation between 9 and 6. Write a C++ code snippet to output the result.
+
+Bit Shifting: Shift the bits of the number 8 to the left by 2 positions. Write a C++ code snippet to show the resulting value.
+
+Assignment Operators
+Increment and Decrement: Given a variable counter initialized to 5, increment it by 3 and then decrement it by 2. Write a C++ code snippet to display the final value.
+
+Expense Tracking: You have an initial amount of $200. You spend $50 and then receive $30 as a refund. Write a C++ code snippet to update and display the final amount.
+
+Product Price Update: An item’s price is $25. Apply a 10% increase to the price using the += operator. Write a C++ code snippet to calculate and display the new price.
+
+Savings Calculation: Calculate the total savings if you save $100 every month for 12 months. Use the *= operator to compute the savings and print the result.
+
+Chained Assignment: Assign a value of 7 to three variables x, y, and z in one line. Write a C++ code snippet to initialize these variables and print their values.
+
