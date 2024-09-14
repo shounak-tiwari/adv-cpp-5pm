@@ -1,0 +1,60 @@
+Arithmetic Operators
+What is the result of the expression 5 / 2 in C++?
+What does the expression 7 % 3 return?
+How does the ++ operator work in both prefix and postfix forms?
+What is the result of -5 + 3 * 2?
+How does integer division differ from floating-point division in C++?
+Relational Operators
+What is the output of the expression 5 == 5?
+What is the result of 10 != 7?
+How do you use relational operators to compare two floating-point numbers?
+What does the expression 4 < 2 || 6 > 3 evaluate to?
+How do relational operators behave with characters in C++?
+Logical Operators
+What does the && operator do?
+How does the || operator differ from &&?
+What is the result of the expression true && false?
+How does short-circuit evaluation work with logical operators in C++?
+What is the result of !false?
+Bitwise Operators
+What does the & operator do in C++?
+How is the | operator used in bitwise operations?
+What is the result of the expression 5 ^ 3?
+How does the ~ operator affect binary numbers?
+What does the left shift operator (<<) do?
+Assignment Operators
+How does the = operator work in C++?
+What does the += operator do?
+How does the *= operator function?
+What is the difference between x = y and x == y?
+How does the ++ operator interact with assignment?
+Unary Operators
+What is the effect of the - unary operator?
+How does the ++ operator work in the context of a loop?
+What is the role of the ! operator in C++?
+How does the & operator work when applied to a variable?
+What does the sizeof operator return?
+Miscellaneous Operators
+What does the conditional (ternary) operator ?: do?
+How does the comma operator work in C++?
+What is the purpose of the , operator?
+What are the rules for operator precedence in C++?
+How do you use the -> operator in a class context?
+Type Casting Operators
+What is the difference between static_cast and dynamic_cast?
+How does const_cast modify object constness?
+What is reinterpret_cast used for in C++?
+How does C++ handle implicit type conversions?
+When would you use static_cast over reinterpret_cast?
+Overloading Operators
+How do you overload the + operator for a class?
+What are the rules for overloading the << operator?
+How do you implement operator overloading for a comparison operator?
+What is the role of the friend keyword in operator overloading?
+Can you overload the assignment operator (=) for a class?
+Miscellaneous Questions
+What is the difference between a[i++] and a[++i] in C++?
+How does the sizeof operator handle arrays and pointers?
+What is the effect of applying the & operator to a constant value?
+How do increment (++) and decrement (--) operators behave with pointers?
+What are some common pitfalls when using operators in C++?
